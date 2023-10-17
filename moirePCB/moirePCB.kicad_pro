@@ -446,8 +446,8 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
-      "vrml": ""
+      "step": "3d/moirePCB.step",
+      "vrml": "3d/moirePCB.wrl"
     },
     "page_layout_descr_file": ""
   },
