@@ -3653,7 +3653,7 @@
     (property "Value" "Battery_Cell" (at 95.25 176.53 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Battery:BatteryHolder_Keystone_1060_1x2032" (at 100.33 172.466 90)
+    (property "Footprint" "Connector_JST:JST_EH_S2B-EH_1x02_P2.50mm_Horizontal" (at 100.33 172.466 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 100.33 172.466 90)
@@ -4419,7 +4419,7 @@
   (symbol (lib_id "Jumper:SolderJumper_2_Bridged") (at 63.5 194.31 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 689e0e9b-ea3f-4bb2-a264-47d078894e53)
-    (property "Reference" "VBAT_OK" (at 59.69 196.85 0)
+    (property "Reference" "VBAT_OK1" (at 59.69 196.85 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "SolderJumper_2_Bridged" (at 68.58 196.85 0)
@@ -4436,7 +4436,7 @@
     (instances
       (project "moirePCB"
         (path "/527e949b-eaeb-4cf3-9920-57a6631a4ccb"
-          (reference "VBAT_OK") (unit 1)
+          (reference "VBAT_OK1") (unit 1)
         )
       )
     )
@@ -5555,7 +5555,7 @@
     (property "Value" "Solar_Cell" (at 77.47 115.57 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 67.31 117.094 90)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal" (at 67.31 117.094 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 67.31 117.094 90)
