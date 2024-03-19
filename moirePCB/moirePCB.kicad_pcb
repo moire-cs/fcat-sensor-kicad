@@ -4122,7 +4122,7 @@
     (at 46.228 44.323 180)
     (descr "Low Power Long Range Transceiver Module SMD-16 (https://www.hoperf.com/data/upload/portal/20181127/5bfcbea20e9ef.pdf)")
     (tags "LoRa Low Power Long Range Transceiver Module")
-    (property "LCSC Part #" "C2844472")
+    (property "LCSC Part #" "C2844473")
     (property "Sheetfile" "moirePCB.kicad_sch")
     (property "Sheetname" "")
     (property "desc" "LoRa Radio")

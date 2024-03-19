@@ -5062,7 +5062,7 @@
     (property "desc" "LoRa Radio" (at 265.43 24.13 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "LCSC Part #" "C2844472" (at 254 39.37 0)
+    (property "LCSC Part #" "C2844473" (at 254 39.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid ccd02079-95f7-4ecf-8216-f536bdd5bc48))
