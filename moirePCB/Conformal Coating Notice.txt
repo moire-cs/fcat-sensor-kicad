@@ -1,0 +1,1 @@
+Conformal coating should not be applied over the following components: BT1, USB//SOLAR1, USB//OFF1, U7, J1, BOOT1, EN1, SC1, LDR1, AE1
